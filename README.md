@@ -3,5 +3,5 @@
 
 <div>
   <img src="./images/linkedin.svg" width="16" alt="linkedIn favicon">
-  <a href="https://www.linkedin.com/in/pierre-louis-crescitz/">LinkedIn</a>
+  <!--<a href="https://www.linkedin.com/in/pierre-louis-crescitz/">LinkedIn</a>-->
 </div>
